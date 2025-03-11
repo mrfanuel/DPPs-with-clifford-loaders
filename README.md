@@ -2,7 +2,7 @@
 We provide here notebooks relying on IBM Qiskit project associated with the manuscript 
 
 [Bypassing orthogonalization in
-the quantum DPP sampler]()
+the quantum DPP sampler](https://arxiv.org/abs/2503.05906)
 
 by [Michaël Fanuel](https://mrfanuel.github.io/) and [Rémi Bardenet](https://rbardenet.github.io/).
 
